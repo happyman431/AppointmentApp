@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppointmentApp.Views.MainPage"
+             Title="{Binding Title}">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Label Text="Appointment App"
+              FontSize="15"
+              FontAttributes="Bold"
+              HorizontalOptions="Center" />
+        <Label Text="username"/>
+        <Editor Placeholder="Enter Name" Text="{Binding Name}"/>
+
+        <Label Text="password"/>
+        <Editor Placeholder="Enter password" Text="{Binding Gender}"/>
+
+
+        <Button Text="Login" Command="{Binding HomePage}" />
+        <Button Text="Sign up" Command="{Binding SignUp}" />
+        
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>
+

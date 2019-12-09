@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="AppointmentApp.Views.SignUpPage">
+
+    <StackLayout>
+        <Label Text="Sign Up"
+                   FontSize="15"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+        <Label Text="Name and Surname"/>
+        <Editor Placeholder="Enter Name and Surname" Text="{Binding Name}"/>
+
+        <Label Text="Gender"/>
+        <Editor Placeholder="Enter Gender" Text="{Binding Gender}"/>
+
+        <Label Text="Identity Number"/>
+        <Editor Placeholder="Enter Identity Number" Text="{Binding Identity Number }"/>
+
+        <Label Text="E-mail"/>
+        <Editor Placeholder="Enter E-mail" Text="{Binding E-mail }"/>
+        
+
+
+
+
+
+
+
+
+
+    </StackLayout>
+  
+</ContentPage>

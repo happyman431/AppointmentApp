@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="AppointmentApp.Views.HomePage" Title="{Binding Title}">
+    
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Label Text="Appointment App This is an appointment app for public hospitals "
+              
+               FontSize="50"
+              FontAttributes="Bold"
+              HorizontalOptions="Center" />
+        <Label Text="This is an appointment app for public hospitals"/>
+
+
+        <Button Text="To Go To Appointment Page" Command="{Binding AppointmentCommand}" />
+
+
+
+
+
+
+
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>
+
+
+
