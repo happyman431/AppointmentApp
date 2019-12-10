@@ -951,11 +951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj",
+      "projectUniqueName": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj",
       "projectName": "AppointmentApp",
-      "projectPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj",
+      "projectPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj",
       "packagesPath": "C:\\Users\\haafiz.mowzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\obj\\",
+      "outputPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1803,11 +1803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\AppointmentApp.iOS.csproj",
+      "projectUniqueName": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\AppointmentApp.iOS.csproj",
       "projectName": "AppointmentApp.iOS",
-      "projectPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\AppointmentApp.iOS.csproj",
+      "projectPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\AppointmentApp.iOS.csproj",
       "packagesPath": "C:\\Users\\haafiz.mowzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\obj\\",
+      "outputPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1828,8 +1828,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj": {
-              "projectPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj"
+            "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj": {
+              "projectPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj"
             }
           }
         }

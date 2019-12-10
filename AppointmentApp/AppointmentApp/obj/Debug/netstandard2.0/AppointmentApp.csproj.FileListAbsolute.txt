@@ -12,3 +12,17 @@ C:\Xamarin\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0
 C:\Xamarin\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.csprojAssemblyReference.cache
 C:\Xamarin\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\Views\AppointmentPage.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\bin\Debug\netstandard2.0\AppointmentApp.deps.json
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\bin\Debug\netstandard2.0\AppointmentApp.dll
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\bin\Debug\netstandard2.0\AppointmentApp.pdb
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.csprojAssemblyReference.cache
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\Views\AppointmentPage.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.AssemblyInfoInputs.cache
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.AssemblyInfo.cs
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.dll
+C:\Xamarin\Appointment\AppointmentApp\AppointmentApp\AppointmentApp\obj\Debug\netstandard2.0\AppointmentApp.pdb

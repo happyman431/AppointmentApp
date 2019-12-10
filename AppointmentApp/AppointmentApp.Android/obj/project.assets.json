@@ -2447,11 +2447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\AppointmentApp.Android.csproj",
+      "projectUniqueName": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\AppointmentApp.Android.csproj",
       "projectName": "AppointmentApp.Android",
-      "projectPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\AppointmentApp.Android.csproj",
+      "projectPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\AppointmentApp.Android.csproj",
       "packagesPath": "C:\\Users\\haafiz.mowzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\obj\\",
+      "outputPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2472,8 +2472,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj": {
-              "projectPath": "C:\\Xamarin\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj"
+            "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj": {
+              "projectPath": "C:\\Xamarin\\Appointment\\AppointmentApp\\AppointmentApp\\AppointmentApp\\AppointmentApp.csproj"
             }
           }
         }
